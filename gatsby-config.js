@@ -7,13 +7,13 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 module.exports = {
   siteMetadata: {
     // Used for the title template on pages other than the index site
-    siteTitle: `Cara`,
+    siteTitle: `Portfolio`,
     // Default title of the page
     siteTitleAlt: `Yeganathan S`,
     // Can be used for e.g. JSONLD
     siteHeadline: `Yeganathan S`,
     // Will be used to generate absolute URLs for og:image etc.
-    siteUrl: `https://cara.lekoarts.de`,
+    siteUrl: `https://yeganathan18.github.io`,
     // Used for SEO
     siteDescription: `Yeganathan personal site, portfolio, software engineer`,
     // Will be set on the <html /> tag
